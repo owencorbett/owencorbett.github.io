@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+My name is Owen Corbett. I am a final year PhD student in at University College London, studyingthe social biology and behaviour of Polistes paper wasps.
 
-Maybe say a some things about yourself.
+I am a queer Irish biologist interested in science communication and digital media.
 
-Or maybe what you plan to blog about.
+This blog is for fun and weird bio-related stories, updates fortnightly!
