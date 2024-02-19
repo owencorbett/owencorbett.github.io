@@ -1,9 +1,3 @@
-## A Tale of Wasps and Wine
-
-<img src="https://github.com/owencorbett/owencorbett.github.io/blob/54d67f8201c281bba41ef1a927facbbe0be17ec3/_images/wine.png?raw=true" alt="title_image" class="title_image" width="300"/>
-
-Humans have been making wine for over eight thousand years – but have our least-loved insects been our secret collaborators since the very beginning?
-
 <!-- Facebook Meta Tags -->
 <meta property="og:url" content="https://owencorbett.github.io/2024/02/19/waspsandwine.html">
 <meta property="og:type" content="website">
@@ -21,6 +15,11 @@ Humans have been making wine for over eight thousand years – but have our leas
 
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
+## A Tale of Wasps and Wine
+
+<img src="https://github.com/owencorbett/owencorbett.github.io/blob/54d67f8201c281bba41ef1a927facbbe0be17ec3/_images/wine.png?raw=true" alt="title_image" class="title_image" width="300"/>
+
+Humans have been making wine for over eight thousand years – but have our least-loved insects been our secret collaborators since the very beginning?
 
 The Invention of Wine
 ---
