@@ -22,3 +22,8 @@ In Summary
 ---
 Social wasps may have been crucial to early winemaking practices, shaping and maintaining local yeast diversity, and delivering the yeasts essential for fermentation. Native wasp species continue to support the maintenance of native yeasts and the generation of new diversity, as well as acting as a yeast delivery service. By performing these services, wasps help shape the local ‘terroir’, influencing the flavours and aromas of the wine made. By harnessing these processes, it may be possible for winemakers to restore native mycobiota, re-introducing favourable yeasts strains to their vines with the power of wasps. 
 Wasps have assisted us in our winemaking since the beginning, may have played a key role in traditional winemaking practices, and present exciting opportunities for future innovations in the world of wine.
+
+---
+
+Photo by <a href="https://unsplash.com/@liubovilchuk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Liubov Ilchuk</a> on <a href="https://unsplash.com/photos/green-and-red-grapes-8V6LbC9ZCwg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
