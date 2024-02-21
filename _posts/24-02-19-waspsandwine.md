@@ -1,13 +1,3 @@
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="owencorbett.github.io">
-<meta property="twitter:url" content="https://owencorbett.github.io/2024/02/19/waspsandwine.html">
-<meta name="twitter:title" content="A Tale of Wasps and Wine">
-<meta name="twitter:description" content="Blog Posts and Science Writing Fun">
-<meta name="twitter:image" content="https://github.com/owencorbett/owencorbett.github.io/blob/54d67f8201c281bba41ef1a927facbbe0be17ec3/_images/wine.png?raw=true">
-
-<!-- Meta Tags Generated via https://www.opengraph.xyz -->
-
 ## A Tale of Wasps and Wine
 
 <img src="https://github.com/owencorbett/owencorbett.github.io/blob/54d67f8201c281bba41ef1a927facbbe0be17ec3/_images/wine.png?raw=true" alt="title_image" class="title_image" width="300"/>
