@@ -27,13 +27,3 @@ Wasps have assisted us in our winemaking since the beginning, may have played a 
 Photo by <a href="https://unsplash.com/@liubovilchuk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Liubov Ilchuk</a> on <a href="https://unsplash.com/photos/green-and-red-grapes-8V6LbC9ZCwg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 <meta property="og:image" content="https://github.com/owencorbett/owencorbett.github.io/blob/54d67f8201c281bba41ef1a927facbbe0be17ec3/_images/wine.png?raw=true" />
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LT2HGPW58B"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-LT2HGPW58B');
-</script>
